@@ -2,3 +2,14 @@
     user-select: none;
     scroll-behavior: smooth;
 }
+                @font-face
+                {
+                font-family: omg;
+                src: url(../fonts/SutonnyOMJRegular.ttf);
+            }
+
+                @font-face
+                {
+                    font-family: hind;
+                    src: url(../fonts/HindSiliguri-Regular.ttf);
+                }
