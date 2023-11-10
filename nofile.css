@@ -5,11 +5,17 @@
                 @font-face
                 {
                 font-family: omg;
-                src: url(../fonts/SutonnyOMJRegular.ttf);
+                src: url(SutonnyOMJRegular.ttf);
             }
 
                 @font-face
                 {
                     font-family: hind;
-                    src: url(../fonts/HindSiliguri-Regular.ttf);
+                    src: url(Hind_Siliguri-Regular.ttf);
                 }
+h1,h2,h3,h4,h5,h6{
+    font-family:hind;
+}
+p{
+    font-family:omg;
+}
